@@ -14,7 +14,7 @@
       shortInfo: "На теплоходе по рекам и каналам",
       schedule: "Ежедневно 12:00, 14:00, 16:00",
       active: true,
-      file: "tours/tour1.html"
+      file: "@/tours/tour1.html"
     },
     {
       id: "2",
@@ -26,7 +26,7 @@
       shortInfo: "Ночное шоу разводных мостов",
       schedule: "01:00 – 03:00 (ночью)",
       active: true,
-      file: "tours/tour2.html"  // например, tour2.html
+      file: "@/tours/tour2.html"  // например, tour2.html
     },
     {
       id: "3",
@@ -38,7 +38,7 @@
       shortInfo: "Экскурсия по знаменитым дворцам",
       schedule: "Пт, Сб, Вс - 12:00 и 16:00",
       active: true,
-      file: "tours/tour3.html"  // например, tour3.html
+      file: "@/tours/tour3.html"  // например, tour3.html
     }
   ];
 
